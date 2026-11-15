@@ -15,4 +15,4 @@ Association of Epidemiology (APE), September 5–8, 2023.
 [Abstract](./breast-cancer-abstractSEE.pdf) published in *Gaceta Sanitaria* 2023;37(S1):S223. 
 
 Based on my Master's thesis in Biostatistics
-[Repository](https://github.com/Mayra-FP/breast-cancer-industrial-pollution-mixed-models-R.git) [Full thesis (PDF)](https://github.com/Mayra-FP/breast-cancer-industrial-pollution-mixed-models-R/docs/MSc_thesis.pdf)
+[Repository](https://github.com/Mayra-FP/breast-cancer-industrial-pollution-mixed-models-R) [Full thesis (PDF)](https://github.com/Mayra-FP/breast-cancer-industrial-pollution-mixed-models-R/docs/MSc_thesis.pdf)
